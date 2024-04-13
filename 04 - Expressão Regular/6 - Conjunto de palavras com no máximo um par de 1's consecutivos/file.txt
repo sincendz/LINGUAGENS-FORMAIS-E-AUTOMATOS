@@ -1,0 +1,4 @@
+L é o conjunto de palavras no alfabeto {0,1} com no máximo um par de 1’s consecutivos.
+
+Por exemplo, 0,1,01,10,00,11,110,011,0101∈L e 11011,111∉L
+(0)*(1)(0)* + (0)*(1)(0)*(1)(0)* + (0)* + (0)*(1)(0)*(1)(0)(0)*
